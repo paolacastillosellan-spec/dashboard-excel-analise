@@ -1,1 +1,1 @@
-# dashboard-excel-analise
+Este projeto consiste na criação de um dashboard interativo desenvolvido no Excel, com o objetivo de analisar [explique o objetivo: vendas, desempenho, indicadores, etc.] e facilitar a tomada de decisões por meio de visualizações claras e organizadas.
